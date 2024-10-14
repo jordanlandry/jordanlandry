@@ -17,7 +17,7 @@ Welcome to my personal GitHub!! I am **Jordan Landry**, a front-end developer sp
 
 ## 📊 My GitHub Stats
 
-![jordanlandry's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=poket-jordan&theme=dark&hide_border=true)
+![jordanlandry's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanlandry&theme=dark&hide_border=true)
 
 ## ✨ More
 
